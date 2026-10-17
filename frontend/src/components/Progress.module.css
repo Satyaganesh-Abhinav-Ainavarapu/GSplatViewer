@@ -1,0 +1,8 @@
+.box{
+    background-color: rgb(64, 73, 83);
+    min-height: 50px;
+    border-radius: 8px;
+    width: 80%;
+    text-align: left;
+    padding: 10px;
+}

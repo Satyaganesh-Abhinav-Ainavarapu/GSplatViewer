@@ -31,7 +31,7 @@ def extract_frames(video_name):
     
     count=0
     saved_frames=0
-    
+    print("Extracting Frames")
     success, frame = video.read()
     while success:
         if count%frame_interval==0:

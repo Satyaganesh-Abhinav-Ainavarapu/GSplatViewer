@@ -17,7 +17,7 @@ pydanticTest.py
 backend/uploads/
 backend/frames/
 backend/models/
-
+backend/colmap/
 # --------------------------
 # VS Code
 # --------------------------

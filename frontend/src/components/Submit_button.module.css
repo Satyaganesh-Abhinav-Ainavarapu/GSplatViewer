@@ -1,0 +1,16 @@
+/* body{
+  background-color: greenyellow;
+} */
+
+.submit{
+  background-color: rgb(247, 180, 55);
+  width: 200px;
+  height: 50px;
+  border-radius: 5px;
+  font-size: large;
+  font-weight: 700;
+}
+
+.submit:active {
+  background-color: red;
+}
